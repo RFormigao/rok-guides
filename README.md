@@ -5,5 +5,6 @@ And templates ready for you to send in your alliance email.
 
 ### Events
 - [Daily Collection](events/daily_collection.html)
-- [King of the tribes](events/king_of_the_tribes.html)
-- [Lohar test](events/lohar_test.html)
+- [King Of The Tribes](events/king_of_the_tribes.html)
+- [Lohar Test](events/lohar_test.html)
+- [Shadow Legion](events/shadow_legion.html)
